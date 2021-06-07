@@ -42,15 +42,59 @@ table {
 	border-spacing: 0;
 }
 li{
+  text-decoration: none;
+  margin-left: 15px;
+  margin-top: 5px;
+  color: blue;
+}
+.a2{
     text-decoration: none;
-    list-style-type:none;
+    color: chartreuse;
+}
+.p1{
+    border: 3px solid chartreuse;
+    margin-left: 15px; 
+    border-radius: 5px;
+    border-width: 4px;
+    margin-right: 50px;
+    margin-block-start: 12px;
+    padding-inline-start: 20px;
+    padding-top: 4px;
+    padding-bottom: 2px;
+}
+img{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+p{
+  color: blue;
+  margin-top: 50px;
+  margin-left: 15px;
+}
+.a1{
+    color: blue;
     margin-left: 15px;
-    margin-top: 5px;
+    border-bottom:2px solid blue ;
+    text-decoration: none; 
 }
-a{
+footer{
+    border-top: 2px solid gray;
+    margin-top: 250px;
+}
+.p3{
+    margin-top: 11px;
+    margin-left: 600px;    
+}
+.a3{
+    color: blue;
     text-decoration: none;
-    color: green;
+    margin-left: 20px;
 }
-span{
-    border: 1px solid green;
-}
+ .a4{
+     padding-bottom: 25px;
+ }
+ .img1{
+     margin-right: 30px;
+ }
+    
+
